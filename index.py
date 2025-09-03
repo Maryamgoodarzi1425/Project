@@ -1,2 +1,2 @@
 print("Hello, Maryam!")
-print("Hello, shame on you!")
+print("Hello, shame on you maryam!")
